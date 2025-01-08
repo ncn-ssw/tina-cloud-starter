@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter - Clear Changes
+title: Tina Cloud Starter - Staging Changes
 blocks:
   - headline: Welcome to the Tina Starter from Staging
     text: >
