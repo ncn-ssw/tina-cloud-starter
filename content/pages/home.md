@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter 2
+title: Tina Cloud Starter - Basic
 blocks:
   - headline: Welcome to the Tina Starter from Staging
     text: >
