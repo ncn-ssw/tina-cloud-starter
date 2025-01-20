@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter - Production Changes
+title: Tina Cloud Starter
 blocks:
   - headline: Welcome to the Tina Starter from Staging
     text: >
