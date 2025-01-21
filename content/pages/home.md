@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Tina Cloud Starter - Aux change
 blocks:
   - headline: Welcome to the Tina Starter from Staging
     text: >
