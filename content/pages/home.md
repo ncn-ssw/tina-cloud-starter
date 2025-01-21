@@ -1,7 +1,7 @@
 ---
-title: Tina Cloud Starter
+title: Tina Cloud Starter - Further change?
 blocks:
-  - headline: Welcome to the Tina Starter from Staging
+  - headline: Welcome to the Tina Starter on Main or Test Branch?
     text: >
       ## **Editors**
 
