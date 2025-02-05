@@ -1,7 +1,7 @@
 ---
-title: Tina Cloud Starter - PR Check
+title: Tina Cloud Starter - PR Check Extra
 blocks:
-  - headline: Welcome to the Tina Starter from Staging
+  - headline: Welcome to the Tina Starter from Staging (Test)
     text: >
       ## **Editors**
 
