@@ -1,5 +1,5 @@
 ---
-name: Napolean - 2
+name: Napolean
 avatar: /uploads/llama-2.avif
 ---
 
