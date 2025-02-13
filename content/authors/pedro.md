@@ -1,5 +1,5 @@
 ---
-name: Pedro - 2
+name: Pedro
 avatar: /uploads/llama-6.avif
 ---
 
