@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter - PR Check 3
 blocks:
-  - headline: Welcome to the Tina Starter V2
+  - headline: Welcome to the Tina Starter V1
     text: >
       ## **Editors**
 
