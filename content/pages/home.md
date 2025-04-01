@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter - PR Check 3
+title: Tina Cloud Starter - PR Check
 blocks:
   - headline: Welcome to the Tina Starter
     text: >
